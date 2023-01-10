@@ -1,0 +1,15 @@
+C:\Users\selim\vue\vite-project\tuto-csharp\bin\Debug\net7.0\tuto-csharp.exe
+C:\Users\selim\vue\vite-project\tuto-csharp\bin\Debug\net7.0\tuto-csharp.deps.json
+C:\Users\selim\vue\vite-project\tuto-csharp\bin\Debug\net7.0\tuto-csharp.runtimeconfig.json
+C:\Users\selim\vue\vite-project\tuto-csharp\bin\Debug\net7.0\tuto-csharp.dll
+C:\Users\selim\vue\vite-project\tuto-csharp\bin\Debug\net7.0\tuto-csharp.pdb
+C:\Users\selim\vue\vite-project\tuto-csharp\obj\Debug\net7.0\tuto-csharp.csproj.AssemblyReference.cache
+C:\Users\selim\vue\vite-project\tuto-csharp\obj\Debug\net7.0\tuto-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selim\vue\vite-project\tuto-csharp\obj\Debug\net7.0\tuto-csharp.AssemblyInfoInputs.cache
+C:\Users\selim\vue\vite-project\tuto-csharp\obj\Debug\net7.0\tuto-csharp.AssemblyInfo.cs
+C:\Users\selim\vue\vite-project\tuto-csharp\obj\Debug\net7.0\tuto-csharp.csproj.CoreCompileInputs.cache
+C:\Users\selim\vue\vite-project\tuto-csharp\obj\Debug\net7.0\tuto-csharp.dll
+C:\Users\selim\vue\vite-project\tuto-csharp\obj\Debug\net7.0\refint\tuto-csharp.dll
+C:\Users\selim\vue\vite-project\tuto-csharp\obj\Debug\net7.0\tuto-csharp.pdb
+C:\Users\selim\vue\vite-project\tuto-csharp\obj\Debug\net7.0\tuto-csharp.genruntimeconfig.cache
+C:\Users\selim\vue\vite-project\tuto-csharp\obj\Debug\net7.0\ref\tuto-csharp.dll
